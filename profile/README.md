@@ -1,7 +1,5 @@
 # Hi世界Minecraft团队
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Hi%E4%B8%96%E7%95%8CMinecraft%E5%9B%A2%E9%98%9F%EF%BC%81)](https://git.io/typing-svg)
-
 ## 欢迎-Welcome
 欢迎你来到这里！这里是由一群热爱Minecraft的玩家和开发者组成的团队！<br>
 Welcome here! This is a team composed of Minecraft enthusiasts and developers!

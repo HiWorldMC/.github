@@ -2,7 +2,7 @@
 
 ## 欢迎-Welcome
 欢迎你来到这里！这里是由一群热爱Minecraft的玩家和开发者组成的团队！<br>
-Welcome here! This is a team composed of Minecraft enthusiasts and developers!
+Welcome here! This is a team composed of Minecraft players and developers!
 
 我们有许多项目类别，比如网站源码、服务端插件、插件配置等等。<br>
 We have many project categories, such as website source code, server-side plugins, plugin configuration, and so on.

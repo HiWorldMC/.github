@@ -29,5 +29,5 @@ The Hi World Minecraft team was created by [HiTech0926](https://github.com/HiTec
 QQ: 2025138508<br>
 Email: [2025138508@qq.com](mailto:2025138508@qq.com)<br>
 BiliBili: [HiTech0926](https://space.bilibili.com/1681111941)<br>
-Discord: HiTech0926#3134<br>
+Discord: HiTech0926#0000<br>
 Telegram: [@hitech0926](https://t.me/hitech0926)<br>
